@@ -18,7 +18,7 @@ It is unfortunate that this is not the case. The government has taken its positi
 ### If it were really a problem, I'd see more about it in the media
 Don't trust the CDC's, or the news' recommendations on COVID. For the purpose of avoiding short-term damage to the economy, they've relaxed restrictions, and media 'takes' should be regarded with skepticism. Use WHO instead; they do not have any political or economic bias that would prevent them from delivering the raw truth.
 ### I developed natural immunity cause I've had COVID already
-### I don't have to mask because I'm a healthy adult and that's only for immunocompromised folks
+### I don't have to mask because I'm a healthy adult and I'm vaccinated. That's only for immunocompromised folks or people who are sick
 This is a recommendation from the CDC that neglects to mention that after you get sick, especially with COVID, you remain immunocompromised for some undefined period of time (body-dependent). While you may be *unlikely* to contract COVID if you are a healthy adult, you may become a carrier if you choose not to mask.
 ### Masks don't work anyway
 This is unfortunately inaccurate and over-generalized. The missing detail is that there are *varying* levels of effectiveness of masks. The ones you heard were ineffective are referring to the cloth, or commonly seen blue surgical masks. The reason they were discovered to be ineffective is because we learned that COVID is airborne, and lingers in the air like smoke. Cloth and surgical masks are effective more or less as a spit guard.

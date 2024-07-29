@@ -14,7 +14,7 @@ Unfortunately or fortunately, depending on how you look at it, the experience of
 This is not true for the same reasons as having mild symptoms.
 
 ### If it were really a problem, the gov't would be doing something about it
-It is unfortunate that this is not the case. The government has taken its position on COVID: that "it will be around", effectively putting its head in the sand--its recommendation does not consider the information that we now have about COVID, so the response has been slow and ineffective. The government is trying to avoid a disruption of labor and keep businesses from suffering losses due to maintaining vacant office buildings and the consequences of social distancing.
+It is unfortunate that this is not the case. The government has taken its position on COVID: that "it will be around", effectively putting its head in the sand--its recommendation does not consider the information that we now have about COVID, so the response has been slow and ineffective. The government is trying to avoid a disruption of labor and keep businesses from suffering losses due to maintaining vacant office buildings and the consequences of social distancing. See more on the government response [here](docs/US_Government_response.md).
 ### If it were really a problem, I'd see more about it in the media
 Don't trust the CDC's, or the news' recommendations on COVID. For the purpose of avoiding short-term damage to the economy, they've relaxed restrictions, and media 'takes' should be regarded with skepticism. Use WHO instead; they do not have any political or economic bias that would prevent them from delivering the raw truth.
 ### I developed natural immunity cause I've had COVID already

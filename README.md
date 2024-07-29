@@ -31,9 +31,10 @@ transmission rates higher than x% of the pandemic. # of cases is derived from wa
 This is as big of a concern as COVID itself, and the death rates are not a good indicator of the problems that COVID is causing. Chronic conditions don't show up in the death numbers for COVID.
 
 ## Long COVID
-Long COVID is one of the biggest reasons to observe and maintain appropriate social distancing measures
+Long COVID is one of the biggest reasons to observe and maintain appropriate social distancing measures.
+See the [Long COVID page](docs/Long_COVID.md) for infographics and links to sources.
 
-## Practical Mitigations
+## Preventative measures
 Obvs vaccine and stuff. talk about it being airborne, when and where to mask, when and where to test
 Mask indoors, when walking down busy streets, at drive-thrus. Think, "if someone around me was smoking a cigarette, would I be able to smell it?" and if the answer is yes, COVID can hang in the air much like stale cigar smoke. It can be present hours after the air is initially exposed to it. 
 

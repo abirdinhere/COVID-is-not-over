@@ -11,7 +11,7 @@ We all wish the COVID pandemic was over and that we don't have to worry about it
 ### I got COVID before and my symptoms were mild
 Unfortunately or fortunately, depending on how you look at it, the experience of _having_ COVID (especially for someone who is vaccinated) does not communicate to your body the severity of its effects on your system. More often than not, for relatively-healthy individuals, having COVID feels like a small cold. It's easy to conclude that "because it didn't feel that bad, it must not _be_ that bad." The effects of Long COVID are far more insidious and difficult to detect, ranging from brain fog to debilitating chronic disorders.
 ### It's only really bad for the elderly and the already-sick
-This is not true for the same reasons as having mild symptoms.
+This is not true for the same reasons that having mild symptoms does not equate to mild damage. The effects on the elderly and already-sick are only more obvious.
 
 ### If it were really a problem, the gov't would be doing something about it
 It is unfortunate that this is not the case. The government has taken its position on COVID: that "it will be around", effectively putting its head in the sand--its recommendation does not consider the information that we now have about COVID, so the response has been slow and ineffective. The government is trying to avoid a disruption of labor and keep businesses from suffering losses due to maintaining vacant office buildings and the consequences of social distancing. See more on the government response [here](docs/US_government_response.md).

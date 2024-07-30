@@ -84,7 +84,9 @@ Meme about it. Grieve about it. Just don't forget about it. We can be resolute i
 [Pandemic Mitigation Collaborative](https://www.pmc19.com/data/index.php) for the latest numbers derived from wastewater data  
 [CDC Long Covid household pulse survey](https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm)  
 [Long Covid and Impaired Cognition](https://www.nejm.org/doi/full/10.1056/NEJMe2400189) from the New England Journal of medicine  
+[How COVID affects your Heart and Brain](https://www.heart.org/en/news/2024/01/16/how-covid-19-affects-your-heart-brain-and-other-organs)
 [Long-Term Health Effects of COVID-19, book](https://nap.nationalacademies.org/catalog/27756/long-term-health-effects-of-covid-19-disability-and-function) from the National Academies of Science, Engineering, and Medicine
+
 
 
 

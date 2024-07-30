@@ -72,6 +72,22 @@ Let's be real, it'll probably be more effective to reach some of your favorite c
 Feature masks in some of your selfies
 Meme about it. Grieve about it. Just don't forget about it. We can be resolute in our approach, and remain curious about possible paths forward.
 
+## Resources/Links
+#### Meta-Resources
+[World Health Organization base page on COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+[CDC base page on COVID-19](https://www.cdc.gov/covid/index.html)
+[C-19.life](https://www.c19.life/) publication aggregate separated by topic: brain, body, heart, immunity, transmission, solutions. Meta resource
+[Satire: You have to live your life](https://youhavetoliveyour.life/) tongue-in-cheek references to common pandemic naysayings; linking to articles refuting each of them
+[Long Covid Advocacy](https://www.longcovidadvoc.com/) is a good source for additional resources on Long Covid. Meta resource
+[Lit Covid](https://www.ncbi.nlm.nih.gov/research/coronavirus/) is a literature hub; good source for additional resources on everything related to COVID. Meta resource
+#### Discrete Sources
+[CDC Long Covid household pulse survey](https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm)
+[Long Covid and Impaired Cognition](https://www.nejm.org/doi/full/10.1056/NEJMe2400189) from the New England Journal of medicine
+[Pandemic Mitigation Collaborative](https://www.pmc19.com/data/index.php) for the latest numbers derived from wastewater data
+[Long-Term Health Effects of COVID-19, book](https://nap.nationalacademies.org/catalog/27756/long-term-health-effects-of-covid-19-disability-and-function) from the National Academies of Science, Engineering, and Medicine. A source
+
+
+
 ## tl;dr
 * The pandemic isn't over. In fact, transmission rates are not much different than when we were in lockdown. Please resume prior protective measures.
 * COVID is NOT and has never been like the flu. We should aim to ensure that COVID does not become endemic like the flu is now.

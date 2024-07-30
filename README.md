@@ -26,7 +26,7 @@ This is unfortunately inaccurate and over-generalized. The missing detail is tha
 This is definitely good news, but it doesn't capture the whole picture. Long COVID will debilitate a significant portion of the population, or may have already. Immune systems are weakening. Pulmonory systems are failing. Nervous system and the brain are struggling to be effective. Sexual dysfunction. 
 ### Nobody else is doing it/what if I'm the only one?
 Don't be an [apathetic bystander](https://en.wikipedia.org/wiki/Bystander_effect). Nobody said this would be easy. Try your best not to crumble under the societal pressure of "keep calm and ignore COVID".
-![It's okay to grieve](images/its_okay_to.jpeg)
+![It's okay to grieve](images/its_okay_to.jpg)
 ### Aren't you being a little paranoid?
 Maybe, but this is a healthy paranoia. It is a thoroughly researched topic that, when understood, requires a certain level of concern to address. It is unreasonable to think that this paranoia is misplaced. The fewer people that observe these precautions, the more worrisome it becomes.
 
